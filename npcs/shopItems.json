@@ -1,0 +1,2187 @@
+{
+  "items": [
+    {
+      "name": "Poke Ball",
+      "buy": 200,
+      "sell": 100
+    },
+    {
+      "name": "Great Ball",
+      "buy": 600,
+      "sell": 300
+    },
+    {
+      "name": "Ultra Ball",
+      "buy": 1200,
+      "sell": 600
+    },
+    {
+      "name": "Level Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "Moon Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "Friend Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "Love Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "Heavy Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "Fast Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "Repeat Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "Timer Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "Nest Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "Net Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "Dive Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "Luxury Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "Heal Ball",
+      "buy": 300,
+      "sell": 150
+    },
+    {
+      "name": "Dusk Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "Park Ball"
+    },
+    {
+      "name": "Quick Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "Lure Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "Sport Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "Cherish Ball",
+      "sell": 500
+    },
+    {
+      "name": "Premier Ball",
+      "sell": 100
+    },
+    {
+      "name": "Master Ball"
+    },
+    {
+      "name": "GS Ball"
+    },
+    {
+      "name": "Safari Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "Rare Candy",
+      "sell": 2400
+    },
+    {
+      "name": "Potion",
+      "buy": 300,
+      "sell": 150
+    },
+    {
+      "name": "Super Potion",
+      "buy": 700,
+      "sell": 350
+    },
+    {
+      "name": "Hyper Potion",
+      "buy": 1200,
+      "sell": 600
+    },
+    {
+      "name": "Max Potion",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "Full Restore",
+      "buy": 3000,
+      "sell": 1500
+    },
+    {
+      "name": "Fresh Water",
+      "buy": 200,
+      "sell": 100
+    },
+    {
+      "name": "Soda Pop",
+      "buy": 300,
+      "sell": 150
+    },
+    {
+      "name": "Lemonade",
+      "buy": 350,
+      "sell": 175
+    },
+    {
+      "name": "Moomoo Milk",
+      "buy": 500,
+      "sell": 250
+    },
+    {
+      "name": "Revive",
+      "buy": 1500,
+      "sell": 750
+    },
+    {
+      "name": "Max Revive",
+      "sell": 2000
+    },
+    {
+      "name": "Ether",
+      "sell": 600
+    },
+    {
+      "name": "Max Ether",
+      "sell": 1000
+    },
+    {
+      "name": "Elixir",
+      "sell": 1500
+    },
+    {
+      "name": "Max Elixir",
+      "sell": 2250
+    },
+    {
+      "name": "Antidote",
+      "buy": 100,
+      "sell": 50
+    },
+    {
+      "name": "Paralyze Heal",
+      "buy": 200,
+      "sell": 100
+    },
+    {
+      "name": "Awakening",
+      "buy": 250,
+      "sell": 125
+    },
+    {
+      "name": "Burn Heal",
+      "buy": 250,
+      "sell": 125
+    },
+    {
+      "name": "Ice Heal",
+      "buy": 250,
+      "sell": 125
+    },
+    {
+      "name": "Full Heal",
+      "buy": 600,
+      "sell": 300
+    },
+    {
+      "name": "HP Up",
+      "buy": 9800,
+      "sell": 4900
+    },
+    {
+      "name": "Protein",
+      "buy": 9800,
+      "sell": 4900
+    },
+    {
+      "name": "Iron",
+      "buy": 9800,
+      "sell": 4900
+    },
+    {
+      "name": "Calcium",
+      "buy": 9800,
+      "sell": 4900
+    },
+    {
+      "name": "Zinc",
+      "buy": 9800,
+      "sell": 4900
+    },
+    {
+      "name": "Carbos",
+      "buy": 9800,
+      "sell": 4900
+    },
+    {
+      "name": "Pomeg Berry",
+      "sell": 10
+    },
+    {
+      "name": "Kelpsy Berry",
+      "sell": 10
+    },
+    {
+      "name": "Qualot Berry",
+      "sell": 10
+    },
+    {
+      "name": "Hondew Berry",
+      "sell": 10
+    },
+    {
+      "name": "Grepa Berry",
+      "sell": 10
+    },
+    {
+      "name": "Tamato Berry",
+      "sell": 10
+    },
+    {
+      "name": "Oran Berry",
+      "sell": 10
+    },
+    {
+      "name": "Rawst Berry",
+      "sell": 10
+    },
+    {
+      "name": "Leppa Berry",
+      "sell": 10
+    },
+    {
+      "name": "CheriBerry",
+      "sell": 10
+    },
+    {
+      "name": "ChestoBerry",
+      "sell": 10
+    },
+    {
+      "name": "PechaBerry",
+      "sell": 10
+    },
+    {
+      "name": "AspearBerry",
+      "sell": 10
+    },
+    {
+      "name": "PersimBerry",
+      "sell": 10
+    },
+    {
+      "name": "LumBerry",
+      "sell": 10
+    },
+    {
+      "name": "SitrusBerry",
+      "sell": 10
+    },
+    {
+      "name": "BerryJuice",
+      "sell": 50
+    },
+    {
+      "name": "PumkinBerry",
+      "sell": 10
+    },
+    {
+      "name": "DrashBerry",
+      "sell": 10
+    },
+    {
+      "name": "EggantBerry",
+      "sell": 10
+    },
+    {
+      "name": "YagoBerry",
+      "sell": 10
+    },
+    {
+      "name": "TougaBerry",
+      "sell": 10
+    },
+    {
+      "name": "ApicotBerry",
+      "sell": 10
+    },
+    {
+      "name": "LiechiBerry",
+      "sell": 10
+    },
+    {
+      "name": "GanlonBerry",
+      "sell": 10
+    },
+    {
+      "name": "SalacBerry",
+      "sell": 10
+    },
+    {
+      "name": "PetayaBerry",
+      "sell": 10
+    },
+    {
+      "name": "LansatBerry",
+      "sell": 10
+    },
+    {
+      "name": "StarfBerry",
+      "sell": 10
+    },
+    {
+      "name": "CustapBerry",
+      "sell": 10
+    },
+    {
+      "name": "AquavBerry",
+      "sell": 10
+    },
+    {
+      "name": "FigBerry",
+      "sell": 10
+    },
+    {
+      "name": "IapapaBerry",
+      "sell": 10
+    },
+    {
+      "name": "MagoBerry",
+      "sell": 10
+    },
+    {
+      "name": "WikiBerry",
+      "sell": 10
+    },
+    {
+      "name": "OccaBerry",
+      "sell": 10
+    },
+    {
+      "name": "PasshoBerry",
+      "sell": 10
+    },
+    {
+      "name": "WacanBerry",
+      "sell": 10
+    },
+    {
+      "name": "RindoBerry",
+      "sell": 10
+    },
+    {
+      "name": "YacheBerry",
+      "sell": 10
+    },
+    {
+      "name": "ChopleBerry",
+      "sell": 10
+    },
+    {
+      "name": "KebiaBerry",
+      "sell": 10
+    },
+    {
+      "name": "ShucaBerry",
+      "sell": 10
+    },
+    {
+      "name": "CobaBerry",
+      "sell": 10
+    },
+    {
+      "name": "PayapaBerry",
+      "sell": 10
+    },
+    {
+      "name": "TangaBerry",
+      "sell": 10
+    },
+    {
+      "name": "ChartiBerry",
+      "sell": 10
+    },
+    {
+      "name": "KasibBerry",
+      "sell": 10
+    },
+    {
+      "name": "HabanBerry",
+      "sell": 10
+    },
+    {
+      "name": "ColburBerry",
+      "sell": 10
+    },
+    {
+      "name": "BabiriBerry",
+      "sell": 10
+    },
+    {
+      "name": "ChilanBerry",
+      "sell": 10
+    },
+    {
+      "name": "HealPowder",
+      "buy": 450,
+      "sell": 225
+    },
+    {
+      "name": "EnergyPowder",
+      "buy": 500,
+      "sell": 250
+    },
+    {
+      "name": "EnergyRoot",
+      "buy": 800,
+      "sell": 400
+    },
+    {
+      "name": "RevivalHerb",
+      "buy": 2800,
+      "sell": 1400
+    },
+    {
+      "name": "Black Apricorn",
+      "sell": 10
+    },
+    {
+      "name": "White Apricorn",
+      "sell": 10
+    },
+    {
+      "name": "Pink Apricorn",
+      "sell": 10
+    },
+    {
+      "name": "Green Apricorn",
+      "sell": 10
+    },
+    {
+      "name": "Blue Apricorn",
+      "sell": 10
+    },
+    {
+      "name": "Yellow Apricorn",
+      "sell": 10
+    },
+    {
+      "name": "Red Apricorn",
+      "sell": 10
+    },
+    {
+      "name": "HelixFossil",
+      "sell": 2000
+    },
+    {
+      "name": "DomeFossil",
+      "sell": 2000
+    },
+    {
+      "name": "OldAmber",
+      "sell": 2000
+    },
+    {
+      "name": "RootFossil",
+      "sell": 2000
+    },
+    {
+      "name": "ClawFossil",
+      "sell": 2000
+    },
+    {
+      "name": "SkullFossil",
+      "sell": 2000
+    },
+    {
+      "name": "ArmorFossil",
+      "sell": 2000
+    },
+    {
+      "name": "CoverFossil",
+      "sell": 2000
+    },
+    {
+      "name": "PlumeFossil",
+      "sell": 2000
+    },
+    {
+      "name": "CoveredFossil0",
+      "sell": 1000
+    },
+    {
+      "name": "CoveredFossil1",
+      "sell": 1000
+    },
+    {
+      "name": "CoveredFossil2",
+      "sell": 1000
+    },
+    {
+      "name": "CoveredFossil3",
+      "sell": 1000
+    },
+    {
+      "name": "CoveredFossil4",
+      "sell": 1000
+    },
+    {
+      "name": "CoveredFossil5",
+      "sell": 1000
+    },
+    {
+      "name": "CoveredFossil6",
+      "sell": 1000
+    },
+    {
+      "name": "CoveredFossil7",
+      "sell": 1000
+    },
+    {
+      "name": "CoveredFossil8",
+      "sell": 1000
+    },
+    {
+      "name": "Sun Stone",
+      "buy": 2100,
+      "sell": 1050
+    },
+    {
+      "name": "Fire Stone",
+      "buy": 2100,
+      "sell": 1050
+    },
+    {
+      "name": "Water Stone",
+      "buy": 2100,
+      "sell": 1050
+    },
+    {
+      "name": "Moon Stone",
+      "sell": 1050
+    },
+    {
+      "name": "Thunder Stone",
+      "buy": 2100,
+      "sell": 1050
+    },
+    {
+      "name": "Leaf Stone",
+      "buy": 2100,
+      "sell": 1050
+    },
+    {
+      "name": "Dawn Stone",
+      "buy": 2100,
+      "sell": 1050
+    },
+    {
+      "name": "Dusk Stone",
+      "buy": 2100,
+      "sell": 1050
+    },
+    {
+      "name": "Ever Stone",
+      "sell": 100
+    },
+    {
+      "name": "Lucky Egg",
+      "sell": 100
+    },
+    {
+      "name": "Exp. Share",
+      "sell": 1500
+    },
+    {
+      "name": "Choice Band",
+      "sell": 50
+    },
+    {
+      "name": "Choice Scarf",
+      "sell": 100
+    },
+    {
+      "name": "Choice Specs",
+      "sell": 100
+    },
+    {
+      "name": "MuscleBand",
+      "sell": 100
+    },
+    {
+      "name": "Macho Brace",
+      "sell": 1500
+    },
+    {
+      "name": "Power Weight",
+      "sell": 1500
+    },
+    {
+      "name": "Power Bracer",
+      "sell": 1500
+    },
+    {
+      "name": "Power Belt",
+      "sell": 1500
+    },
+    {
+      "name": "Power Lens",
+      "sell": 1500
+    },
+    {
+      "name": "Power Band",
+      "sell": 1500
+    },
+    {
+      "name": "Power Anklet",
+      "sell": 1500
+    },
+    {
+      "name": "Soothe Bell",
+      "sell": 50
+    },
+    {
+      "name": "Smoke Ball",
+      "sell": 100
+    },
+    {
+      "name": "WideLens",
+      "sell": 100
+    },
+    {
+      "name": "Leftovers",
+      "sell": 100
+    },
+    {
+      "name": "Shell Bell",
+      "sell": 100
+    },
+    {
+      "name": "Cell Battery",
+      "sell": 100
+    },
+    {
+      "name": "Metronome",
+      "sell": 100
+    },
+    {
+      "name": "Dubious Disc",
+      "sell": 1050
+    },
+    {
+      "name": "Electirizer",
+      "sell": 1050
+    },
+    {
+      "name": "Magmarizer",
+      "sell": 1050
+    },
+    {
+      "name": "King's Rock",
+      "sell": 50
+    },
+    {
+      "name": "Protector",
+      "sell": 1050
+    },
+    {
+      "name": "Up-Grade",
+      "sell": 1050
+    },
+    {
+      "name": "Razor Fang",
+      "sell": 1050
+    },
+    {
+      "name": "Dragon Scale",
+      "sell": 1050
+    },
+    {
+      "name": "RazorClaw",
+      "sell": 1050
+    },
+    {
+      "name": "AbsorbBulb",
+      "sell": 100
+    },
+    {
+      "name": "Life Orb",
+      "sell": 100
+    },
+    {
+      "name": "FocusSash",
+      "sell": 100
+    },
+    {
+      "name": "FocusBand",
+      "sell": 100
+    },
+    {
+      "name": "ToxicOrb",
+      "sell": 50
+    },
+    {
+      "name": "FlameOrb",
+      "sell": 50
+    },
+    {
+      "name": "BlackSludge",
+      "sell": 100
+    },
+    {
+      "name": "ScopeLens",
+      "sell": 100
+    },
+    {
+      "name": "AirBalloon",
+      "sell": 100
+    },
+    {
+      "name": "RockyHelmet",
+      "sell": 100
+    },
+    {
+      "name": "ShedShell",
+      "sell": 50
+    },
+    {
+      "name": "DampRock",
+      "sell": 100
+    },
+    {
+      "name": "HeatRock",
+      "sell": 100
+    },
+    {
+      "name": "IcyRock",
+      "sell": 100
+    },
+    {
+      "name": "SmoothRock",
+      "sell": 100
+    },
+    {
+      "name": "Eviolite",
+      "sell": 100
+    },
+    {
+      "name": "LightBall",
+      "sell": 50
+    },
+    {
+      "name": "LuckyPunch",
+      "sell": 5
+    },
+    {
+      "name": "MetalPowder",
+      "sell": 5
+    },
+    {
+      "name": "QuickPowder",
+      "sell": 5
+    },
+    {
+      "name": "Stick",
+      "sell": 100
+    },
+    {
+      "name": "ThickClub",
+      "sell": 250
+    },
+    {
+      "name": "PowerHerb",
+      "sell": 50
+    },
+    {
+      "name": "RedCard",
+      "sell": 100
+    },
+    {
+      "name": "ExpertBelt",
+      "sell": 100
+    },
+    {
+      "name": "LightClay",
+      "sell": 100
+    },
+    {
+      "name": "MentalHerb",
+      "sell": 50
+    },
+    {
+      "name": "StickyBarb",
+      "sell": 100
+    },
+    {
+      "name": "QuickClaw",
+      "sell": 50
+    },
+    {
+      "name": "WhiteHerb",
+      "sell": 50
+    },
+    {
+      "name": "BigRoot",
+      "sell": 100
+    },
+    {
+      "name": "ZoomLens",
+      "sell": 100
+    },
+    {
+      "name": "BrightPowder",
+      "sell": 10
+    },
+    {
+      "name": "GinemaBerry",
+      "sell": 10
+    },
+    {
+      "name": "JabocaBerry",
+      "sell": 10
+    },
+    {
+      "name": "RowapBerry",
+      "sell": 10
+    },
+    {
+      "name": "LaggingTail",
+      "sell": 100
+    },
+    {
+      "name": "WiseGlasses",
+      "sell": 100
+    },
+    {
+      "name": "EjectButton",
+      "sell": 100
+    },
+    {
+      "name": "EnigmaBerry",
+      "sell": 10
+    },
+    {
+      "name": "BindingBand",
+      "sell": 100
+    },
+    {
+      "name": "IronBall",
+      "sell": 100
+    },
+    {
+      "name": "GripClaw",
+      "sell": 100
+    },
+    {
+      "name": "FloatStone",
+      "sell": 100
+    },
+    {
+      "name": "MicleBerry",
+      "sell": 10
+    },
+    {
+      "name": "RingTarget",
+      "sell": 100
+    },
+    {
+      "name": "Full Incense",
+      "sell": 100
+    },
+    {
+      "name": "Lax Incense",
+      "sell": 100
+    },
+    {
+      "name": "Luck Incense",
+      "sell": 100
+    },
+    {
+      "name": "Odd Incense",
+      "sell": 100
+    },
+    {
+      "name": "Pure Incense",
+      "sell": 100
+    },
+    {
+      "name": "Rock Incense",
+      "sell": 100
+    },
+    {
+      "name": "Rose Incense",
+      "sell": 100
+    },
+    {
+      "name": "Sea Incense",
+      "sell": 100
+    },
+    {
+      "name": "Wave Incense",
+      "sell": 100
+    },
+    {
+      "name": "Bug Gem",
+      "sell": 100
+    },
+    {
+      "name": "Dark Gem",
+      "sell": 100
+    },
+    {
+      "name": "Dragon Gem",
+      "sell": 100
+    },
+    {
+      "name": "Electric Gem",
+      "sell": 100
+    },
+    {
+      "name": "Fighting Gem",
+      "sell": 100
+    },
+    {
+      "name": "Fire Gem",
+      "sell": 100
+    },
+    {
+      "name": "Flying Gem",
+      "sell": 100
+    },
+    {
+      "name": "Ghost Gem",
+      "sell": 100
+    },
+    {
+      "name": "Grass Gem",
+      "sell": 100
+    },
+    {
+      "name": "Ground Gem",
+      "sell": 100
+    },
+    {
+      "name": "Ice Gem",
+      "sell": 100
+    },
+    {
+      "name": "Normal Gem",
+      "sell": 100
+    },
+    {
+      "name": "Poison Gem",
+      "sell": 100
+    },
+    {
+      "name": "Psychic Gem",
+      "sell": 100
+    },
+    {
+      "name": "Rock Gem",
+      "sell": 100
+    },
+    {
+      "name": "Steel Gem",
+      "sell": 100
+    },
+    {
+      "name": "Water Gem",
+      "sell": 100
+    },
+    {
+      "name": "Fairy Gem",
+      "sell": 100
+    },
+    {
+      "name": "BlackBelt",
+      "sell": 50
+    },
+    {
+      "name": "BlackGlasses",
+      "sell": 50
+    },
+    {
+      "name": "Charcoal",
+      "sell": 50
+    },
+    {
+      "name": "DragonFang",
+      "sell": 50
+    },
+    {
+      "name": "HardStone",
+      "sell": 50
+    },
+    {
+      "name": "Magnet",
+      "sell": 50
+    },
+    {
+      "name": "Metal Coat",
+      "sell": 50
+    },
+    {
+      "name": "MiracleSeed",
+      "sell": 50
+    },
+    {
+      "name": "MysticWater",
+      "sell": 50
+    },
+    {
+      "name": "NeverMeltIce",
+      "sell": 50
+    },
+    {
+      "name": "PoisonBarb",
+      "sell": 50
+    },
+    {
+      "name": "SharkBeak",
+      "sell": 50
+    },
+    {
+      "name": "SilkScarf",
+      "sell": 50
+    },
+    {
+      "name": "SilverPowder",
+      "sell": 50
+    },
+    {
+      "name": "SoftSand",
+      "sell": 50
+    },
+    {
+      "name": "SpellTag",
+      "sell": 50
+    },
+    {
+      "name": "TwistedSpoon",
+      "sell": 50
+    },
+    {
+      "name": "destinyknot",
+      "sell": 50
+    },
+    {
+      "name": "XAttack",
+      "buy": 500,
+      "sell": 250
+    },
+    {
+      "name": "XDefence",
+      "buy": 550,
+      "sell": 275
+    },
+    {
+      "name": "XSpecialAttack",
+      "buy": 350,
+      "sell": 175
+    },
+    {
+      "name": "XSpecialDefence",
+      "buy": 350,
+      "sell": 175
+    },
+    {
+      "name": "XSpeed",
+      "buy": 350,
+      "sell": 175
+    },
+    {
+      "name": "XAccuracy",
+      "buy": 950,
+      "sell": 475
+    },
+    {
+      "name": "DireHit",
+      "buy": 650,
+      "sell": 375
+    },
+    {
+      "name": "TM1 - Hone Claws",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "TM2 - Dragon Claw",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "TM3 - Psyshock",
+      "buy": 12500,
+      "sell": 5000
+    },
+    {
+      "name": "TM4 - Calm Mind",
+      "buy": 15000,
+      "sell": 7500
+    },
+    {
+      "name": "TM5 - Roar",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "TM6 - Toxic",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "TM7 - Hail",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM8 - Bulk Up",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "TM9 - Venoshock",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "TM10 - Hidden Power",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "TM11 - Sunny Day",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "TM12 - Taunt",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "TM13 - Ice Beam",
+      "buy": 15000,
+      "sell": 7500
+    },
+    {
+      "name": "TM14 - Blizzard",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "TM15 - Hyper Beam",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "TM16 - Light Screen",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "TM17 - Protect",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "TM18 - Rain Dance",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "TM19 - Telekinesis",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM20 - Safeguard",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM21 - Frustration",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "TM22 - SolarBeam",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "TM23 - Smack Down",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM24 - Thunderbolt",
+      "buy": 15000,
+      "sell": 7500
+    },
+    {
+      "name": "TM25 - Thunder",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "TM26 - Earthquake",
+      "buy": 15000,
+      "sell": 7500
+    },
+    {
+      "name": "TM27 - Return",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "TM28 - Dig",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "TM29 - Psychic",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "TM30 - Shadow Ball",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "TM31 - Brick Break",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "TM32 - Double Team",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "TM33 - Reflect",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "TM34 - Sludge Wave",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "TM35 - Flamethrower",
+      "buy": 15000,
+      "sell": 7500
+    },
+    {
+      "name": "TM36 - Sludge Bomb",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "TM37 - Sandstorm",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "TM38 - Fire Blast",
+      "buy": 15000,
+      "sell": 7500
+    },
+    {
+      "name": "TM39 - Rock Tomb",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM40 - Aerial Ace",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "TM41 - Torment",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "TM42 - Facade",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "TM43 - Flame Charge",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "TM44 - Rest",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "TM45 - Attract",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "TM46 - Thief",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM47 - Low Sweep",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "TM48 - Round",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM49 - Echoed Voice",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM50 - Overheat",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "TM51 - Ally Switch",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM52 - Focus Blast",
+      "buy": 15000,
+      "sell": 7500
+    },
+    {
+      "name": "TM53 - Energy Ball",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "TM54 - False Swipe",
+      "buy": 10000,
+      "sell": 5000,
+    },
+    {
+      "name": "TM55 - Scald",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "TM56 - Fling",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM57 - Charge Beam",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM58 - Sky Drop",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "TM59 - Incinerate",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM60 - Quash",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM61 - Will-O-Wisp",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "TM62 - Acrobatics",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "TM63 - Embargo",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM64 - Explosion",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "TM65 - Shadow Claw",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "TM66 - Payback",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "TM67 - Retaliate",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM68 - Giga Impact",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "TM69 - Rock Polish",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "TM70 - Flash",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM71 - Stone Edge",
+      "buy": 15000,
+      "sell": 7500
+    },
+    {
+      "name": "TM72 - Volt Switch",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "TM73 - Thunder Wave",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "TM74 - Gyro Ball",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "TM75 - Swords Dance",
+      "buy": 15000,
+      "sell": 7500
+    },
+    {
+      "name": "TM76 - Struggle Bug",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM77 - Psych Up",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM78 - Bulldoze",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM79 - Frost Breath",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "TM80 - Rock Slide",
+      "buy": 10000,
+      "sell": 500
+    },
+    {
+      "name": "TM81 - X-Scissor",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "TM82 - Dragon Tail",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "TM83 - Work Up",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "TM84 - Poison Jab",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "TM85 - Dream Eater",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "TM86 - Grass Knot",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "TM87 - Swagger",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "TM88 - Pluck",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM89 - U-Turn",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "TM90 - Substitute",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "TM91 - Flash Cannon",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "TM92 - Trick Room",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "TM93 - Wild Charge",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "TM94 - Rock Smash",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "TM95 - Snarl",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "TM96 - Mega Punch",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM97 - Razor Wind",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM98 - Whirlwind",
+      "buy": 10000,
+      "sell": 500
+    },
+    {
+      "name": "TM99 - Mega Kick",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "TM100 - Horn Drill",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "TM101 - Body Slam",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "TM102 - Take Down",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM103 - Double-Edge",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "TM104 - BubbleBeam",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM105 - Water Gun",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM106 - Pay Day",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM107 - Submission",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "TM108 - Counter",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "TM109 - Seismic Toss",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "TM110 - Rage",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM111 - Mega Drain",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM112 - Dragon Rage",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM113 - Fissure",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "TM114 - Teleport",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "TM115 - Mimic",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM116 - Bide",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM117 - Metronome",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "TM118 - Selfdestruct",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "TM119 - Egg Bomb",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM120 - Swift",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM121 - Skull Bash",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "TM122 - Softboiled",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "TM123 - Sky Attack",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "TM124 - Psywave",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM125 - Tri Attack",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "TM126 - DynamicPunch",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "TM127 - Headbutt",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM128 - Curse",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "TM129 - Rollout",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM130 - Zap Cannon",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "TM131 - Sweet Scent",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM132 - Snore",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM133 - Icy Wind",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "TM134 - Giga Drain",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "TM135 - Endure",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "TM136 - Iron Tail",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "TM137 - DragonBreath",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM138 - Mud-Slap",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM139 - Ice Punch",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "TM140 - Sleep Talk",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "TM141 - Defense Curl",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM142 - Thunder Punch",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "TM143 - Detect",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "TM144 - Steel Wing",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "TM145 - Fire Punch",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "TM146 - Fury Cutter",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM147 - Nightmare",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM148 - Focus Punch",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "TM149 - Water Pulse",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM150 - Bullet Seed",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM151 - Shock Wave",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM152 - Secret Power",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM153 - Skill Swap",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "TM154 - Snatch",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM155 - Roost",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "TM156 - Brine",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM157 - Dragon Pulse",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "TM158 - Drain Punch",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "TM159 - Silver Wind",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM160 - Recycle",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM161 - Avalanche",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "TM162 - Stealth Rock",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "TM163 - Captivate",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "TM164 - Dark Pulse",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "TM165 - Natural Gift",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "HM1 - Cut",
+      "sell": 8000
+    },
+    {
+      "name": "HM2 - Fly",
+      "sell": 8000
+    },
+    {
+      "name": "HM3 - Surf",
+      "sell": 8000
+    },
+    {
+      "name": "HM4 - Strength",
+      "sell": 8000
+    },
+    {
+      "name": "HM5 - Defog",
+      "sell": 8000
+    },
+    {
+      "name": "HM6 - Rock Smash",
+      "sell": 8000
+    },
+    {
+      "name": "HM7 - Waterfall",
+      "sell": 8000
+    },
+    {
+      "name": "HM8 - Rock Climb",
+      "sell": 8000
+    },
+    {
+      "name": "HM9 - Whirlpool",
+      "sell": 8000
+    },
+    {
+      "name": "HM10 - Dive",
+      "sell": 8000
+    }
+    {
+      "name": "PokeMail-air",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-bloom",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-brick",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-bridged",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-bridgem",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-bridges",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-bridget",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-bridgev",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-bubble",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-dream",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-fab",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-favored",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-flame",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-glitter",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-grass",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-greet",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-harbor",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-heart",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-inquiry",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-like",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-mech",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-mosaic",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-orange",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-reply",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-retro",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-rsvp",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-shadown",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-snow",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-space",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-steel",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-thanks",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-tropic",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-tunnel",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-wave",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "PokeMail-wood",
+      "buy": 50,
+      "sell": 25
+    }
+
+  ]
+}
