@@ -11,28 +11,18 @@
   },
   "textures": [
     {
-      "name": "shopkeeper.png"
-    },
-    {
-      "name": "shopman2.png"
+      "name": "shopgirl.png"
     }
   ],
   "names": [
     {
-      "name": "Charles"
-    },
-    {
-      "name": "Eito"
+      "name": "Babs"
     }
   ],
   "chat": [
     {
-      "hello": "Welcome to my Poké Mart. I hope you find something you like!",
-      "goodbye": "See you next time."
-    },
-    {
-      "hello": "Hello, welcome to the Pokémart. How may I help you?",
-      "goodbye": "Thank you for shopping at the Pokémart. Have a nice day."
+      "hello": "Hiya, welcome to the Poké Mart. Want any help?",
+      "goodbye": "Bye then."
     }
   ],
   /*
@@ -45,7 +35,7 @@
   "items": [
     {
       "name": "Poke Ball",
-      "multi": 0.9
+      "multi": 1.2
     },
     {
       "name": "Great Ball"
@@ -53,57 +43,57 @@
     {
       "name": "Ultra Ball",
       "multi": 1.1,
-      "rarity": 0.7
+      "rarity": 0.5
+    },
+    {
+      "name": "Friend Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "Heal Ball",
+      "rarity": 0.3
     },
     {
       "name": "Luxury Ball",
       "rarity": 0.3
     },
     {
-      "name": "Potion"
-    },
-    {
-      "name": "Super Potion"
-    },
-    {
-      "name": "Hyper Potion",
+      "name": "Moomoo Milk",
       "rarity": 0.5
     },
     {
-      "name": "Max Potion",
-      "rarity": 0.1,
-      "multi": 0.8
+      "name": "HealPowder"
     },
     {
-      "name": "Full Restore",
-      "rarity": 0.1
+      "name": "EnergyPowder"
     },
     {
-      "name": "Full Heal"
+      "name": "EnergyRoot"
     },
     {
-      "name": "Antidote",
-      "rarity": 0.5
+      "name": "RevivalHerb",
+      "rarity": 0.7
+    }
+    {
+      "name": "XAttack"
     },
     {
-      "name": "Awakening",
-      "rarity": 0.5
+      "name": "XDefence"
     },
     {
-      "name": "Burn Heal",
-      "rarity": 0.5
+      "name": "XSpecialAttack"
     },
     {
-      "name": "Ice Heal",
-      "rarity": 0.5
+      "name": "XSpecialDefence"
     },
     {
-      "name": "Paralyze Heal",
-      "rarity": 0.5
+      "name": "XSpeed"
     },
     {
-      "name": "Revive",
-      "rarity": 0.8
+      "name": "XAccuracy"
+    },
+    {
+      "name": "DireHit"
     }
   ]
 }

@@ -7,6 +7,9 @@
       "name": "artist"
     },
     {
+      "name": "baker"
+    },
+    {
       "name": "battlegirl"
     },
     {
@@ -107,6 +110,15 @@
     },
     {
       "name": "scientist_m"
+    },
+    {
+      "name": "shoplady"
+    },
+    {
+      "name": "shopgirl"
+    },
+    {
+      "name": "shopman"
     },
     {
       "name": "supernerd"
@@ -265,6 +277,18 @@
   "shopKeepers": [
     {
       "name": "pokemartmain1"
+    },
+    {
+      "name": "pokemartmain2"
+    },
+    {
+      "name": "pokemartmain3"
+    },
+    {
+      "name": "pokemartsecond1"
+    },
+    {
+      "name": "pokemartsecond2"
     }
   ]
 }
