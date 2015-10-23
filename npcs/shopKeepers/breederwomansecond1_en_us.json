@@ -1,0 +1,181 @@
+{
+  "data": {
+    /* Type options are:
+      "PokemartMain" - Spawns as the primary seller in a Poké Mart. Sells main items.
+      "PokemartSecond" - Spawns as the secondary seller in a Poké Mart. Sells luxury items.
+      "Spawn" - Spawns in the wild as a very rare seller.
+
+      More will be added as new shop types are added.
+    */
+    "type": "PokemartSecond"
+  },
+  "textures": [
+    {
+      "name": "pkmn_breeder_f.png"
+    },
+    {
+      "name": "pkmn_breeder_f2.png"
+    }
+    {
+      "name": "breedergreen_f.png"
+    }
+  ],
+  "names": [
+        {
+            "name": "Corinne"
+        },
+        {
+            "name": "Elyse"
+        },
+        {
+            "name": "Zoey"
+        },
+        {
+            "name": "Gabriella"
+        },
+        {
+            "name": "\"Mama Teddiursa\""
+        }
+  ],
+  "chat": [
+    {
+      "hello": "All those eggs will be awfully hungry when they hatch!",
+      "goodbye": "Thanks for helping me feed all those cute, hungry Pokémon babies!"
+    }
+  ],
+  /*
+    Only items listed in the items array will show up in the shop for sale. Any item can be sold to the shop however.
+    Items layout:
+    name - reference to the name entry in shopItems.json.
+    multi - optional field, defaults to 1, changes cost of buying that item by that multiplier.
+    rarity - optional field, from 0 - 1, if set the item set there will have a percentage chance of turning up at this shopkeeper. Refreshed every MC day.
+  */
+  "items": [
+    {
+      "name": "Poke Ball",
+    },
+    {
+      "name": "Great Ball"
+    },
+    {
+      "name": "Ultra Ball",
+      "rarity": 0.5
+    },
+    {
+      "name": "Luxury Ball",
+      "rarity": 0.7
+    },
+    {
+      "name": "Friend Ball",
+      "rarity": 0.7
+    },
+    {
+      "name": "Love Ball",
+      "rarity": 0.7
+    },
+    {
+      "name": "Heal Ball",
+      "rarity": 0.7
+	},
+    {
+      "name": "Moon Ball",
+      "rarity": 0.7
+    },
+    {
+      "name": "Nest Ball",
+      "rarity": 0.7
+    },
+    {
+      "name": "Net Ball",
+      "rarity": 0.7
+	},
+    {
+      "name": "Dive Ball",
+      "rarity": 0.7
+	},
+    {
+      "name": "Lure Ball",
+      "rarity": 0.7
+	},
+    {
+      "name": "Sport Ball",
+      "rarity": 0.7
+	},
+    {
+      "name": "Power Weight",
+      "multi": 2.0
+    },
+    {
+      "name": "Power Bracer",
+      "multi": 2.0
+    },
+    {
+      "name": "Power Belt",
+      "multi": 2.0
+    },
+    {
+      "name": "Power Lens",
+      "multi": 2.0
+    },
+    {
+      "name": "Power Band",
+      "multi": 2.0
+    },
+    {
+      "name": "Power Anklet",
+      "multi": 2.0
+    },
+    {
+      "name": "Soothe Bell",
+      "multi": 2.0
+    },
+    {
+      "name": "Eviolite",
+      "multi": 5.0
+    },
+    {
+      "name": "destinyknot",
+      "multi": 10.0
+    },
+    {
+      "name": "Full Incense",
+      "multi": 2.0
+    },
+    {
+      "name": "Lax Incense",
+      "multi": 2.0
+    },
+    {
+      "name": "Luck Incense",
+      "multi": 2.0
+    },
+    {
+      "name": "Odd Incense",
+      "multi": 2.0
+    },
+    {
+      "name": "Pure Incense",
+      "multi": 2.0
+    },
+    {
+      "name": "Rock Incense",
+      "multi": 2.0
+    },
+    {
+      "name": "Rose Incense",
+      "multi": 2.0
+    },
+    {
+      "name": "Sea Incense",
+      "multi": 2.0
+    },
+    {
+      "name": "Wave Incense",
+      "multi": 2.0
+    },
+    {
+      "name": "ThickClub",
+      "multi": 4.0
+    }
+  ]
+}

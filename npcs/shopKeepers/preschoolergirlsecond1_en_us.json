@@ -1,0 +1,89 @@
+{
+  "data": {
+    /* Type options are:
+      "PokemartMain" - Spawns as the primary seller in a Poké Mart. Sells main items.
+      "PokemartSecond" - Spawns as the secondary seller in a Poké Mart. Sells luxury items.
+      "Spawn" - Spawns in the wild as a very rare seller.
+
+      More will be added as new shop types are added.
+    */
+    "type": "PokemartSecond"
+  },
+  "textures": [
+    {
+      "name": "preschooler_f1.png"
+    }
+  ],
+  "names": [
+        {
+            "name": "Zelda"
+        },
+        {
+            "name": "Renee"
+        },
+        {
+            "name": "Gabby"
+        },
+        {
+            "name": "\"Twinkle Toes\""
+        },
+        {
+            "name": "Jenni Jr."
+        }
+  ],
+  "chat": [
+    {
+      "hello": "Would you like some Lemonade! I'm being an entre... entrup... Umm... I sell stuff!",
+      "goodbye": "Entrepreneur! That's what daddy called it! Oh, thank you for your pantri... patrona... Hrmm..."
+    }
+  ],
+  /*
+    Only items listed in the items array will show up in the shop for sale. Any item can be sold to the shop however.
+    Items layout:
+    name - reference to the name entry in shopItems.json.
+    multi - optional field, defaults to 1, changes cost of buying that item by that multiplier.
+    rarity - optional field, from 0 - 1, if set the item set there will have a percentage chance of turning up at this shopkeeper. Refreshed every MC day.
+  */
+  "items": [
+    {
+      "name": "Lemonade",
+	  "multi": 1.1
+    },
+    {
+      "name": "Fresh Water",
+	  "rarity": 0.8
+    },
+    {
+      "name": "Soda Pop",
+	  "rarity": 0.8
+    },
+    {
+      "name": "Moomoo Milk",
+	  "rarity": 0.8
+    },
+    {
+      "name": "Potion"
+	  "rarity": 0.8
+    },
+    {
+      "name": "Super Potion",
+	  "rarity": 0.6
+	  "multi": 1.2
+    },
+    {
+      "name": "Hyper Potion",
+	  "rarity": 0.4
+	  "multi": 1.4
+    },
+    {
+      "name": "Max Potion",
+	  "rarity": 0.1
+	  "multi": 1.6
+    },
+    {
+      "name": "Leaf Stone",
+	  "multi": 2.0
+	  "rarity": 0.001
+    }
+  ]
+}
