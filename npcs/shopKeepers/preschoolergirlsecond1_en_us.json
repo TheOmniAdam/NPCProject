@@ -35,6 +35,18 @@
     {
       "hello": "Would you like some Lemonade! I'm being an entre... entrup... Umm... I sell stuff!",
       "goodbye": "Entrepreneur! That's what daddy called it! Oh, thank you for your pantri... patrona... Hrmm..."
+    },
+    {
+      "hello": "... Oh! Sorry I was on the Xtranceiver with my BOYFRIEND. What would you like to buy?",
+      "goodbye": "Me and my BOYFRIEND are pretty serious! We've been dating for three whole hours!"
+    },
+    {
+      "hello": "I'm selling Lemonade because I'm the only kid I know without a Holo Caster! I'm almost 5!",
+      "goodbye": "My parents got me an Xtranceiver, but it's SO last generation!"
+    },
+    {
+      "hello": "My daddy says selling things in the shop will build character- but character won't buy the latest Pokédoll!",
+      "goodbye": "Oh wait! ... but the selling stuff probably will... hmmm..."
     }
   ],
   /*
@@ -46,42 +58,42 @@
   */
   "items": [
     {
-      "name": "Lemonade",
+      "name": "pixelmon:item.Lemonade",
 	  "multi": 1.1
     },
     {
-      "name": "Fresh Water",
+      "name": "pixelmon:item.Fresh_Water",
 	  "rarity": 0.8
     },
     {
-      "name": "Soda Pop",
+      "name": "pixelmon:item.Soda_Pop",
 	  "rarity": 0.8
     },
     {
-      "name": "Moomoo Milk",
+      "name": "pixelmon:item.Moomoo_Milk",
 	  "rarity": 0.8
     },
     {
-      "name": "Potion"
+      "name": "pixelmon:item.Potion"
 	  "rarity": 0.8
     },
     {
-      "name": "Super Potion",
+      "name": "pixelmon:item.Super_Potion",
 	  "rarity": 0.6
 	  "multi": 1.2
     },
     {
-      "name": "Hyper Potion",
+      "name": "pixelmon:item.Hyper_Potion",
 	  "rarity": 0.4
 	  "multi": 1.4
     },
     {
-      "name": "Max Potion",
+      "name": "pixelmon:item.Max_Potion",
 	  "rarity": 0.1
 	  "multi": 1.6
     },
     {
-      "name": "Leaf Stone",
+      "name": "pixelmon:item.Leaf_Stone",
 	  "multi": 2.0
 	  "rarity": 0.001
     }

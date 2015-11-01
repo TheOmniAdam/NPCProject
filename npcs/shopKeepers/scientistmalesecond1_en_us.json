@@ -35,6 +35,18 @@
     {
       "hello": "My research isn't going to fund itself!",
       "goodbye": "Your patronage is greatly appreciated!"
+    },
+    {
+      "hello": "Good news, Everybody! The lab just did inventory and we're selling the excess!",
+      "goodbye": "Excelsior!"
+    },
+    {
+      "hello": "The lab asked me to come here and sell some of our surplus supplies!",
+      "goodbye": "Does that mean I'm a good salesman? Or a bad scientist... hrmmm..."
+    },
+    {
+      "hello": "Hello! I'm selling Pokéballs on the side! I got a little girl to put through college!",
+      "goodbye": "If she becomes a Pokémon trainer... well I guess a vacation home would be nice..."
     }
   ],
   /*
@@ -46,129 +58,129 @@
   */
   "items": [
     {
-      "name": "Poke Ball",
+      "name": "pixelmon:item.Poke_Ball",
     },
     {
-      "name": "Great Ball"
+      "name": "pixelmon:item.Great_Ball"
     },
     {
-      "name": "Ultra Ball",
+      "name": "pixelmon:item.Ultra_Ball",
       "rarity": 0.5
     },
     {
-      "name": "Quick Ball",
+      "name": "pixelmon:item.Quick_Ball",
       "rarity": 0.7
     },
     {
-      "name": "Level Ball",
+      "name": "pixelmon:item.Level_Ball",
       "rarity": 0.7
     },
     {
-      "name": "Repeat Ball",
+      "name": "pixelmon:item.Repeat_Ball",
       "rarity": 0.7
     },
     {
-      "name": "Timer Ball",
+      "name": "pixelmon:item.Timer_Ball",
       "rarity": 0.7
     },
     {
-      "name": "Heavy Ball",
-      "rarity": 0.7
-	},
-    {
-      "name": "Fast Ball",
-      "rarity": 0.7
-    },
-    {
-      "name": "Dusk Ball",
+      "name": "pixelmon:item.Heavy_Ball",
       "rarity": 0.7
 	},
     {
-      "name": "Up-Grade",
+      "name": "pixelmon:item.Fast_Ball",
+      "rarity": 0.7
+    },
+    {
+      "name": "pixelmon:item.Dusk_Ball",
+      "rarity": 0.7
+	},
+    {
+      "name": "pixelmon:item.Up-Grade",
       "multi": 2.0
     },
     {
-      "name": "Dubious Disc",
+      "name": "pixelmon:item.Dubious_Disc",
       "multi": 2.0
     },
     {
-      "name": "Electirizer",
+      "name": "pixelmon:item.Electirizer",
       "multi": 2.0
     },
     {
-      "name": "Magmarizer",
+      "name": "pixelmon:item.Magmarizer",
       "multi": 2.0
     },
     {
-      "name": "HelixFossil",
+      "name": "pixelmon:item.HelixFossil",
       "multi": 2.0
     },
     {
-      "name": "DomeFossil",
+      "name": "pixelmon:item.DomeFossil",
       "multi": 2.0
     },
     {
-      "name": "OldAmber",
+      "name": "pixelmon:item.OldAmber",
       "multi": 2.0
     },
     {
-      "name": "RootFossil",
+      "name": "pixelmon:item.RootFossil",
       "multi": 2.0
     },
     {
-      "name": "ClawFossil",
+      "name": "pixelmon:item.ClawFossil",
       "multi": 2.0
     },
     {
-      "name": "SkullFossil",
+      "name": "pixelmon:item.SkullFossil",
       "multi": 2.0
     },
     {
-      "name": "ArmorFossil",
+      "name": "pixelmon:item.ArmorFossil",
       "multi": 2.0
     },
     {
-      "name": "CoverFossil",
+      "name": "pixelmon:item.CoverFossil",
       "multi": 2.0
     },
     {
-      "name": "PlumeFossil",
+      "name": "pixelmon:item.PlumeFossil",
       "multi": 2.0
     },
     {
-      "name": "CoveredFossil0",
+      "name": "pixelmon:item.CoveredFossil0",
       "multi": 2.0
     },
     {
-      "name": "CoveredFossil1",
+      "name": "pixelmon:item.CoveredFossil1",
       "multi": 2.0
     },
     {
-      "name": "CoveredFossil2",
+      "name": "pixelmon:item.CoveredFossil2",
       "multi": 2.0
     },
     {
-      "name": "CoveredFossil3",
+      "name": "pixelmon:item.CoveredFossil3",
       "multi": 2.0
     },
     {
-      "name": "CoveredFossil4",
+      "name": "pixelmon:item.CoveredFossil4",
       "multi": 2.0
     },
     {
-      "name": "CoveredFossil5",
+      "name": "pixelmon:item.CoveredFossil5",
       "multi": 2.0
     },
     {
-      "name": "CoveredFossil6",
+      "name": "pixelmon:item.CoveredFossil6",
       "multi": 2.0
     },
     {
-      "name": "CoveredFossil7",
+      "name": "pixelmon:item.CoveredFossil7",
       "multi": 2.0
     },
     {
-      "name": "CoveredFossil8",
+      "name": "pixelmon:item.CoveredFossil8",
       "multi": 2.0
     }
   ]

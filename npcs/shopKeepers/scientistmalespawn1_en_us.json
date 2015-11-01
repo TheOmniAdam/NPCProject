@@ -35,6 +35,18 @@
     {
       "hello": "I am in search of rare fossils! I'd pay a high price for them...",
       "goodbye": "Science thanks you!"
+    },
+    {
+      "hello": "I'm actually on the look out for fossils right now- but while you're here!",
+      "goodbye": "Thanks- let me know if you happen to see the ancient remains of Pokémon just lying around!"
+    },
+    {
+      "hello": "Maybe these Pokéballs will help you. I've got catching Pokémon down to a Science!",
+      "goodbye": "Now to master the art of Salesmanship!"
+    },
+    {
+      "hello": "Could I interest you in some Pokéballs? I've engineered these myself!",
+      "goodbye": "I've also perfected the recipe for Master balls! If I could only find my notes..."
     }
   ],
   /*
@@ -46,122 +58,122 @@
   */
   "items": [
     {
-      "name": "Poke Ball",
+      "name": "pixelmon:item.Poke_Ball",
     },
     {
-      "name": "Quick Ball",
+      "name": "pixelmon:item.Quick_Ball",
       "rarity": 0.7
     },
     {
-      "name": "Level Ball",
+      "name": "pixelmon:item.Level_Ball",
       "rarity": 0.7
     },
     {
-      "name": "Repeat Ball",
+      "name": "pixelmon:item.Repeat_Ball",
       "rarity": 0.7
     },
     {
-      "name": "Timer Ball",
+      "name": "pixelmon:item.Timer_Ball",
       "rarity": 0.7
     },
     {
-      "name": "Heavy Ball",
-      "rarity": 0.7
-	},
-    {
-      "name": "Fast Ball",
-      "rarity": 0.7
-    },
-    {
-      "name": "Dusk Ball",
+      "name": "pixelmon:item.Heavy_Ball",
       "rarity": 0.7
 	},
     {
-      "name": "Up-Grade",
+      "name": "pixelmon:item.Fast_Ball",
+      "rarity": 0.7
+    },
+    {
+      "name": "pixelmon:item.Dusk_Ball",
+      "rarity": 0.7
+	},
+    {
+      "name": "pixelmon:item.Up-Grade",
       "multi": 2.0
     },
     {
-      "name": "Dubious Disc",
+      "name": "pixelmon:item.Dubious_Disc",
       "multi": 2.0
     },
     {
-      "name": "Electirizer",
+      "name": "pixelmon:item.Electirizer",
       "multi": 2.0
     },
     {
-      "name": "Magmarizer",
+      "name": "pixelmon:item.Magmarizer",
       "multi": 2.0
     },
     {
-      "name": "HelixFossil",
+      "name": "pixelmon:item.HelixFossil",
       "multi": 2.0
     },
     {
-      "name": "DomeFossil",
+      "name": "pixelmon:item.DomeFossil",
       "multi": 2.0
     },
     {
-      "name": "OldAmber",
+      "name": "pixelmon:item.OldAmber",
       "multi": 2.0
     },
     {
-      "name": "RootFossil",
+      "name": "pixelmon:item.RootFossil",
       "multi": 2.0
     },
     {
-      "name": "ClawFossil",
+      "name": "pixelmon:item.ClawFossil",
       "multi": 2.0
     },
     {
-      "name": "SkullFossil",
+      "name": "pixelmon:item.SkullFossil",
       "multi": 2.0
     },
     {
-      "name": "ArmorFossil",
+      "name": "pixelmon:item.ArmorFossil",
       "multi": 2.0
     },
     {
-      "name": "CoverFossil",
+      "name": "pixelmon:item.CoverFossil",
       "multi": 2.0
     },
     {
-      "name": "PlumeFossil",
+      "name": "pixelmon:item.PlumeFossil",
       "multi": 2.0
     },
     {
-      "name": "CoveredFossil0",
+      "name": "pixelmon:item.CoveredFossil0",
       "multi": 2.0
     },
     {
-      "name": "CoveredFossil1",
+      "name": "pixelmon:item.CoveredFossil1",
       "multi": 2.0
     },
     {
-      "name": "CoveredFossil2",
+      "name": "pixelmon:item.CoveredFossil2",
       "multi": 2.0
     },
     {
-      "name": "CoveredFossil3",
+      "name": "pixelmon:item.CoveredFossil3",
       "multi": 2.0
     },
     {
-      "name": "CoveredFossil4",
+      "name": "pixelmon:item.CoveredFossil4",
       "multi": 2.0
     },
     {
-      "name": "CoveredFossil5",
+      "name": "pixelmon:item.CoveredFossil5",
       "multi": 2.0
     },
     {
-      "name": "CoveredFossil6",
+      "name": "pixelmon:item.CoveredFossil6",
       "multi": 2.0
     },
     {
-      "name": "CoveredFossil7",
+      "name": "pixelmon:item.CoveredFossil7",
       "multi": 2.0
     },
     {
-      "name": "CoveredFossil8",
+      "name": "pixelmon:item.CoveredFossil8",
       "multi": 2.0
     }
   ]

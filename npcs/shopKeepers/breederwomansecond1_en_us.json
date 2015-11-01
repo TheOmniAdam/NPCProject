@@ -41,6 +41,18 @@
     {
       "hello": "All those eggs will be awfully hungry when they hatch!",
       "goodbye": "Thanks for helping me feed all those cute, hungry Pokémon babies!"
+    },
+    {
+      "hello": "I'm raising money for a good cause; Feeding baby Pokémon!",
+      "goodbye": "Of course they're MY baby Pokémon. Being a breeder is tough work..."
+    },
+    {
+      "hello": "This is just a side gig- my real passion is breeding Pokémon!",
+      "goodbye": "I hate being away from the daycare for so long... I love baby Pokémon!"
+    },
+    {
+      "hello": "Breeder is my day job, but I'm selling Pokéballs to fund my shopping habits!",
+      "goodbye": "I can't help it if baby Pokémon keep chewing up my shoes!"
     }
   ],
   /*
@@ -52,129 +64,133 @@
   */
   "items": [
     {
-      "name": "Poke Ball",
+      "name": "pixelmon:item.Poke_Ball",
     },
     {
-      "name": "Great Ball"
+      "name": "pixelmon:item.Great_Ball"
     },
     {
-      "name": "Ultra Ball",
+      "name": "pixelmon:item.Ultra_Ball",
       "rarity": 0.5
     },
     {
-      "name": "Luxury Ball",
+      "name": "pixelmon:item.Luxury_Ball",
       "rarity": 0.7
     },
     {
-      "name": "Friend Ball",
+      "name": "pixelmon:item.Friend_Ball",
       "rarity": 0.7
     },
     {
-      "name": "Love Ball",
+      "name": "pixelmon:item.Love_Ball",
       "rarity": 0.7
     },
     {
-      "name": "Heal Ball",
-      "rarity": 0.7
-	},
-    {
-      "name": "Moon Ball",
-      "rarity": 0.7
-    },
-    {
-      "name": "Nest Ball",
-      "rarity": 0.7
-    },
-    {
-      "name": "Net Ball",
+      "name": "pixelmon:item.Heal_Ball",
       "rarity": 0.7
 	},
     {
-      "name": "Dive Ball",
+      "name": "pixelmon:item.Moon_Ball",
+      "rarity": 0.7
+    },
+    {
+      "name": "pixelmon:item.Nest_Ball",
+      "rarity": 0.7
+    },
+    {
+      "name": "pixelmon:item.Net_Ball",
       "rarity": 0.7
 	},
     {
-      "name": "Lure Ball",
+      "name": "pixelmon:item.Dive_Ball",
       "rarity": 0.7
 	},
     {
-      "name": "Sport Ball",
+      "name": "pixelmon:item.Lure_Ball",
       "rarity": 0.7
 	},
     {
-      "name": "Power Weight",
+      "name": "pixelmon:item.Sport_Ball",
+      "rarity": 0.7
+	},
+    {
+      "name": "pixelmon:item.Safari_Ball",
+      "rarity": 0.7
+	},
+    {
+      "name": "pixelmon:item.Power_Weight",
       "multi": 2.0
     },
     {
-      "name": "Power Bracer",
+      "name": "pixelmon:item.Power_Bracer",
       "multi": 2.0
     },
     {
-      "name": "Power Belt",
+      "name": "pixelmon:item.Power_Belt",
       "multi": 2.0
     },
     {
-      "name": "Power Lens",
+      "name": "pixelmon:item.Power_Lens",
       "multi": 2.0
     },
     {
-      "name": "Power Band",
+      "name": "pixelmon:item.Power_Band",
       "multi": 2.0
     },
     {
-      "name": "Power Anklet",
+      "name": "ixelmon:item.Power_Anklet",
       "multi": 2.0
     },
     {
-      "name": "Soothe Bell",
+      "name": "pixelmon:item.Soothe_Bell",
       "multi": 2.0
     },
     {
-      "name": "Eviolite",
+      "name": "pixelmon:item.Eviolite",
       "multi": 5.0
     },
     {
-      "name": "destinyknot",
+      "name": "pixelmon:item.destinyKnot",
       "multi": 10.0
     },
     {
-      "name": "Full Incense",
+      "name": "pixelmon:item.Full_Incense",
       "multi": 2.0
     },
     {
-      "name": "Lax Incense",
+      "name": "pixelmon:item.Lax_Incense",
       "multi": 2.0
     },
     {
-      "name": "Luck Incense",
+      "name": "pixelmon:item.Luck_Incense",
       "multi": 2.0
     },
     {
-      "name": "Odd Incense",
+      "name": "pixelmon:item.Odd_Incense",
       "multi": 2.0
     },
     {
-      "name": "Pure Incense",
+      "name": "pixelmon:item.Pure_Incense",
       "multi": 2.0
     },
     {
-      "name": "Rock Incense",
+      "name": "pixelmon:item.Rock_Incense",
       "multi": 2.0
     },
     {
-      "name": "Rose Incense",
+      "name": "pixelmon:item.Rose_Incense",
       "multi": 2.0
     },
     {
-      "name": "Sea Incense",
+      "name": "pixelmon:item.Sea_Incense",
       "multi": 2.0
     },
     {
-      "name": "Wave Incense",
+      "name": "pixelmon:item.Wave_Incense",
       "multi": 2.0
     },
     {
-      "name": "ThickClub",
+      "name": "pixelmon:item.ThickClub",
       "multi": 4.0
     }
   ]

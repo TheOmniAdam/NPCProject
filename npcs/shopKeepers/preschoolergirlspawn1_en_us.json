@@ -35,6 +35,18 @@
     {
       "hello": "Hi! I'm trying to fund my trip to camp Pokémon! Would you like to buy some lemonade!",
       "goodbye": "That's it?! Cheapskate! Oops... I mean, uh... Thank you very much."
+    },
+    {
+      "hello": "Hello! Would you like to buy some Pokéscouts Lemonade!",
+      "goodbye": "Gotta keep working to get that Shop Keeper Merit badge!"
+    },
+    {
+      "hello": "I want the latest Pokédoll!! Buy stuff!",
+      "goodbye": "You sure you don't wanna buy MORE stuff?"
+    },
+    {
+      "hello": "Mommy says I have a cute smile no one can say no to! Wanna buy some lemonade?",
+      "goodbye": "Daddy will buy whatever I don't sell! He can't say cuz he's my Daddy!"
     }
   ],
   /*
@@ -46,42 +58,42 @@
   */
   "items": [
     {
-      "name": "Lemonade",
+      "name": "pixelmon:item.Lemonade",
 	  "multi": 1.1
     },
     {
-      "name": "Fresh Water",
+      "name": "pixelmon:item.Fresh_Water",
 	  "rarity": 0.8
     },
     {
-      "name": "Soda Pop",
+      "name": "pixelmon:item.Soda_Pop",
 	  "rarity": 0.8
     },
     {
-      "name": "Moomoo Milk",
+      "name": "pixelmon:item.Moomoo_Milk",
 	  "rarity": 0.8
     },
     {
-      "name": "Potion"
+      "name": "pixelmon:item.Potion"
 	  "rarity": 0.6
     },
     {
-      "name": "Super Potion",
+      "name": "pixelmon:item.Super_Potion",
 	  "rarity": 0.4
 	  "multi": 1.1
     },
     {
-      "name": "Hyper Potion",
+      "name": "pixelmon:item.Hyper_Potion",
 	  "rarity": 0.2
 	  "multi": 1.2
     },
     {
-      "name": "Max Potion",
+      "name": "pixelmon:item.Max_Potion",
 	  "rarity": 0.05
 	  "multi": 1.3
     },
     {
-      "name": "Leaf Stone",
+      "name": "pixelmon:item.Leaf_Stone",
 	  "multi": 2.0
 	  "rarity": 0.001
     }
